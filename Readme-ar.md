@@ -18,5 +18,5 @@ Visual Studio Code snippets هي اختصارات بتساعدك تكتب الك
 هذا الاختصار تم صنعه بواسطة DZAN. تقدر تعدل الاختصارات حسب احتياجاتك، لكن من فضلك احتفظ بإشعار حقوق النشر الأصلي إذا شاركتها أو وزعتها.
 ## Contect
 لأي مشاكل أو مساهمات، يمكنك التواصل معي عبر:
-[Twitter](https://twitter.com/_dz4n) or [GitHub](httlps://github.com/d-zan/DevXor-Snippet).
-Discord: dz0. 
+- [Twitter](https://twitter.com/_dz4n) or [GitHub](https://github.com/d-zan/DevXor-Snippet) .
+- Discord: dz0. 
