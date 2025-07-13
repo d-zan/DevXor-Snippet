@@ -1,7 +1,7 @@
 ﻿[Arabic](https://github.com/d-zan/DevXor-Snippet/blob/main/Readme-ar.md)
 # DevXor Snippets
 _____
-**These snippets are designed to help you quickly create DevXor commands and events in your JavaScript projects.**
+**These snippets are designed to help you quickly create [DevXor-Handler](https://github.com/DevXor-Team/DevXorHandler) commands and events in your JavaScript projects.**
 
 ## Quick Start
 1. Open your JavaScript file in Visual Studio Code.
@@ -20,5 +20,5 @@ Visual Studio Code snippets are templates that make it easier to write code. The
 This snippet is created by DZAN. You can modify the snippets as per your requirements, but please retain the original copyright notice if you share or distribute them.
 ## Contect
 For any issues or contributions, please contact me via: 
-[Twitter](https://twitter.com/_dz4n) or [GitHub](https://github.com/d-zan/DevXor-Snippet).
+[Twitter](https://twitter.com/_dz4n) or [GitHub](https://github.com/d-zan/DevXor-Snippet/issues).
 Discord: dz0. 
