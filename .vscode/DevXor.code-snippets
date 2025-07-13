@@ -1,0 +1,64 @@
+{
+//DZAN Note:
+//This snippet create by me :),
+//You can rename the snippet to make it easy for you.
+//Work on .js only > Local > only this files ><
+//Events: don't try delete the $1 or ${1:eventName} 
+//Why you don't give me star and follow?
+
+	"DevXor Command Snippet":{
+		"prefix": ["cmd","dxc"],
+		"scope": "javascript",
+		"body": [
+"/**@type {import(\"@utils/types/baseCommand\")}*/",
+"module.exports = {",
+"name: \"snippet\",",
+"description: \"commandDescription\",",
+"cooldown: 0,",
+"/*isPremium: false, This option is not supported for v1*/",
+"category: \"NONE\",",
+"botPermissions: [\"\",\"\"],",
+"userPermissions: [\"\",\"\"],",
+"validations: [],",
+"command: {",
+  "enabled: true,",
+ "aliases: [],",
+   "usage: \"\",",
+   "minArgsCount: 0,",
+  "subcommands: [],",
+   "},",
+"slashCommand: {",
+"enabled: false,",
+    "ephemeral: false,",
+    "options: [],",
+  "},",
+  "msgExecute: (client, message, args) => { ",
+  "},",
+  "interactionExecute: (client, interaction) => {",
+  "},",
+  "autocompleteExecute: (client, interaction) => {",
+  "},",
+"};",
+
+
+		],
+		"description": "The Command Snippet, Enter to show me. ;)"
+	},
+	"DevXor Events Snippet":{
+		"prefix": ["evnts","event"],
+		"body": [
+"const BEV = require(\"@utils/types/baseEvents\");",
+"//<I don't know anything here>",
+"/** @type {BEV.BaseEvent<\"${1:eventName}\">} */ ",
+"module.exports = {",
+"name:\"$1\",",
+"once:false,",
+"execute(client){",
+
+"},",
+"}",
+
+		],
+		"description": "The Events Snippet, Enter to show me. ;)"
+	}
+}
