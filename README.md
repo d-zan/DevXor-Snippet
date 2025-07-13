@@ -22,3 +22,4 @@ This snippet is created by DZAN. You can modify the snippets as per your require
 For any issues or contributions, please contact me via: 
 [Twitter](https://twitter.com/_dz4n) or [GitHub](https://github.com/d-zan/DevXor-Snippet/issues).
 Discord: dz0. 
+[!view](https://cdn.discordapp.com/attachments/1393803684265197590/1393803684533764146/2025_07_13_06_52_52_649.mp4?ex=68748056&is=68732ed6&hm=1ae211b6a8f14df56ccee863ca89670aad288d4f7fc2555e3a1dcf71813f243d&)
